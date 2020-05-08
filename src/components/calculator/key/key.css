@@ -17,4 +17,5 @@
   animation-delay: 0s;
   animation-iteration-count: 1;
   animation-name: appearKey;
+  cursor: pointer;
 }
