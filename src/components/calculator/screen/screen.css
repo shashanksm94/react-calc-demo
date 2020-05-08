@@ -13,7 +13,7 @@
 
 .animateScreen {
   animation-duration: 4s;
-  animation-timing-function: ease-in;
+  animation-timing-function: ease;
   animation-delay: 0s;
   animation-iteration-count: 1;
   animation-name: appearScreen;
