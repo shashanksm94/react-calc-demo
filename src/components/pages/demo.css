@@ -1,0 +1,20 @@
+.DemoContainer {
+  /* display: inline-block; */
+  width: 100%;
+  padding: 20px;
+}
+
+.DemoContainer .Col {
+  padding-bottom: 40px;
+}
+
+/* p {
+  text-align: justify;
+  text-justify: inter-word;
+} */
+
+blockquote {
+  text-align: center;
+  font-weight: bold;
+  font-size: 100%;
+}

@@ -1,0 +1,20 @@
+.AboutReactContainer {
+  /* display: inline-block; */
+  width: 100%;
+  padding: 20px;
+}
+
+.AboutReactContainer .Col {
+  padding-bottom: 40px;
+}
+
+.AboutReactContainer p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+blockquote {
+  text-align: center;
+  font-weight: bold;
+  font-size: 100%;
+}

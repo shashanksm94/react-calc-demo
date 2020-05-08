@@ -1,0 +1,13 @@
+.ContentContainer {
+  margin: 0;
+  padding: 20px 0px;
+  width: 100%;
+  /* background-color: #ebebeb; */
+  background-color: rgb(225, 225, 225);
+  color: rgb(20, 20, 20);
+}
+
+.article p {
+  text-align: justify;
+  text-justify: inter-word;
+}

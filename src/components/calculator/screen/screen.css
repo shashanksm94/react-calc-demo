@@ -1,0 +1,25 @@
+@keyframes appearScreen {
+  0% {
+    background-color: rgb(225, 225, 225);
+    color: rgb(225, 225, 225);
+    box-shadow: none;
+  }
+  50% {
+    background-color: rgb(225, 225, 225);
+    color: rgb(225, 225, 225);
+    box-shadow: none;
+  }
+}
+
+.animateScreen {
+  animation-duration: 4s;
+  animation-timing-function: ease-in;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-name: appearScreen;
+  display: inline-block;
+}
+
+.animateScreen:focus {
+  outline: 2px solid rgba(223, 119, 0, 0.5);
+}

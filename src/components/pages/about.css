@@ -1,0 +1,20 @@
+.AboutMeContainer {
+  /* display: inline-block; */
+  width: 100%;
+  padding: 20px;
+}
+
+.AboutMeContainer .Col {
+  padding-bottom: 40px;
+}
+
+.AboutMeContainer p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+blockquote {
+  text-align: center;
+  font-weight: bold;
+  font-size: 100%;
+}

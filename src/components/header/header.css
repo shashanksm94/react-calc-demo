@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+.Navbar {
+  /* background-image: linear-gradient(to right, #f27023, #f26f238c); */
+  /* background-color: #f27023; */
+  background-color: rgb(223, 119, 0);
+  color: white;
+  padding: 0px 8px;
+}
+
+.NavbarBrand,
+.NavbarText {
+  padding-top: 0;
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+}
+
+.NavbarBrand img {
+  margin: 0;
+  display: inline-block;
+  filter: saturate(30%);
+  height: 40px;
+}
