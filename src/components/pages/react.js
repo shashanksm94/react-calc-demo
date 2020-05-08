@@ -9,7 +9,7 @@ const AboutReact = () => {
         <Row>
           <Col className="Col">
             <h1>What is ReactJS....</h1>
-            <h5>Let's get to know React based on how the web explains it</h5>
+            <h5>Let's get to know React according to the web</h5>
             <p>
               React is a JavaScript library that aims to simplify development of
               visual interfaces. Developed at Facebook and released to the world
